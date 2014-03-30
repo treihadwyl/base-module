@@ -1,7 +1,7 @@
 {
   "name": "treihadwyl-basic",
   "version": "0.1.0",
-  "description": "Basic package scaffold for Treihadwyl",
+  "description": "Treihadwyl Base Package Scaffold",
   "main": "main.js",
   "scripts": {
     "test": "gulp test"

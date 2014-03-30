@@ -1,4 +1,4 @@
 
 module.exports = (function() {
-  console.log( 'a module ~ treihadwyl-basic' );
+  console.log( 'a module ~ treihadwyl-base' );
 })();
