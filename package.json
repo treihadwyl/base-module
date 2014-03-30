@@ -1,0 +1,19 @@
+{
+  "name": "treihadwyl-basic",
+  "version": "0.0.0",
+  "description": "Basic package scaffold for Treihadwyl",
+  "main": "main.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-plumber": "^0.5.6",
+    "gulp-notify": "^1.2.4",
+    "gulp-util": "^2.2.14",
+    "gulp-mocha": "^0.4.1",
+    "gulp": "^3.6.0",
+    "chai": "^1.9.1"
+  }
+}
