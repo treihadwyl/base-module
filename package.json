@@ -1,6 +1,6 @@
 {
   "name": "treihadwyl-basic",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Treihadwyl Base Package Scaffold",
   "main": "main.js",
   "scripts": {
