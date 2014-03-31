@@ -19,7 +19,12 @@ var gulp = require( 'gulp' ),
 
 gulp.task( 'test', function() {
     return gulp
-        .src( 'tests/spec/**/*.js' )
+        .src( [
+            'spec/**/*.js',
+            '!spec/fixtures/**/*',
+            '!spec/expected/**/*',
+            '!spec/utils/**/*'
+        ])
         .pipe( plumber( {
             errorHandler: notify.onError( 'Test error: <%= error.message %>' )
         }))
