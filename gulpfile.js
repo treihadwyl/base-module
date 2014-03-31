@@ -1,5 +1,5 @@
 /**
- * Treihadwyl Basic Package Scaffold
+ * Treihadwyl Base Package Scaffold
  * Copyright © 2014 Matt Styles <matt@veryfizzyjelly.com>
  * Licensed under the ISC license
  * ---
