@@ -1,6 +1,6 @@
 {
   "name": "treihadwyl-base",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Treihadwyl Base Package Scaffold",
   "main": "main.js",
   "repository": {
@@ -21,4 +21,3 @@
     "chai": "^1.9.1"
   }
 }
-
