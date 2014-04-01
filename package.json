@@ -3,6 +3,10 @@
   "version": "0.1.2",
   "description": "Treihadwyl Base Package Scaffold",
   "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/treihadwyl/base-module"
+  },
   "scripts": {
     "test": "gulp test"
   },
@@ -17,3 +21,4 @@
     "chai": "^1.9.1"
   }
 }
+
